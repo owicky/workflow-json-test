@@ -63,7 +63,7 @@
                 "message": "testing testing testing"
             },
             "InvokeNext": [
-                {"True": "log",
+                {"True": "log(10)",
                 "False": "delete"}
             ]
         },
