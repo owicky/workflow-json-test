@@ -63,7 +63,7 @@
                 "message": "testing testing testing"
             },
             "InvokeNext": [
-                {"True": "log(10)",
+                {"True": "log",
                 "False": "delete"}
             ]
         },
@@ -101,6 +101,9 @@
         "log": "ghcr.io/nolcut/github-actions-python:0.1.3",
         "folders": "nolcut/ow-faasr-image:0.1.0"
     },
+    "FunctionPyPIPackage": {
+        "add_rpc": "random2"
+    },
     "FunctionGitRepo": {
         "add": "nolcut/test-py",
         "r_log": "nolcut/test-py",
@@ -110,7 +113,7 @@
         "test_log": "nolcut/test-py",
         "test_list_folders": "nolcut/test-py"
     },
-    "FunctionInvoke": "r_func",
+    "FunctionInvoke": "add_operation",
     "InvocationID": "",
     "FaaSrLog": "FaaSrLog",
     "LoggingDataStore": "My_Minio_Bucket",
