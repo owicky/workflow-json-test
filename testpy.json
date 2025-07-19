@@ -102,7 +102,7 @@
         "folders": "nolcut/ow-faasr-image:0.1.0"
     },
     "FunctionPyPIPackage": {
-        "add_rpc": "random2"
+        "add_rpc": ["random2"]
     },
     "FunctionGitRepo": {
         "add": "nolcut/test-py",
