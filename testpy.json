@@ -41,7 +41,7 @@
                 "num2": 100,
                 "output": "add_result_500.txt"
             },
-            "InvokeNext": ["r_func"]
+            "InvokeNext": ["add_operation"]
         },
         "r_func": {
             "FunctionName": "r_log",
