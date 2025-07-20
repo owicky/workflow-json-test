@@ -107,10 +107,10 @@
     },
 
     "PackageImports": {
-        "add_rpc": ["random2", "rireproducible_randomch"]
+        "add_rpc": ["random2", "randomgen"]
     },
     "FunctionGitHubPackage": {
-        "add_rpc": ["mllite/reproducible_random"]
+        "add_rpc": ["davidbau/pyrandom"]
     },
     "FunctionGitRepo": {
         "add": "nolcut/test-py",
