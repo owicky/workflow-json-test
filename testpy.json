@@ -90,7 +90,7 @@
         "folders": ""
     },
 
-    "PyPIPackagesDownloads": {
+    "PyPIPackageDownloads": {
         "add_rpc": ["random2"]
     },
 
