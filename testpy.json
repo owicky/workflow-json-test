@@ -101,7 +101,12 @@
         "log": "ghcr.io/nolcut/github-actions-python:0.1.3",
         "folders": "nolcut/ow-faasr-image:0.1.0"
     },
-    "FunctionPyPIPackage": {
+
+    "PyPIPackagesDownloads": {
+        "add_rpc": ["random2"]
+    },
+
+    "PackageImports": {
         "add_rpc": ["random2"]
     },
     "FunctionGitRepo": {
