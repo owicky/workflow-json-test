@@ -110,7 +110,7 @@
         "add_rpc": ["random2", "rich"]
     },
     "FunctionGitHubPackage": {
-        "add_rpc": ["Textualize/rich.git"]
+        "add_rpc": ["Textualize/rich"]
     },
     "FunctionGitRepo": {
         "add": "nolcut/test-py",
