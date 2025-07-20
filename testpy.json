@@ -107,10 +107,10 @@
     },
 
     "PackageImports": {
-        "add_rpc": ["random2", "randomgen"]
+        "add_rpc": ["random2", "uuid6"]
     },
     "FunctionGitHubPackage": {
-        "add_rpc": ["davidbau/pyrandom"]
+        "add_rpc": ["oittaa/uuid6-python"]
     },
     "FunctionGitRepo": {
         "add": "nolcut/test-py",
@@ -127,3 +127,4 @@
     "LoggingDataStore": "My_Minio_Bucket",
     "DefaultDataStore": "My_Minio_Bucket"
 }
+
