@@ -66,10 +66,10 @@
         }
     },
     "ActionContainers": {
-        "r_log": "ghcr.io/nolcut/ga-rpc-python: 0.1.5",
-        "add_operation": "ghcr.io/nolcut/ga-rpc-python:0.1.5",
-        "log": "ghcr.io/nolcut/ga-rpc-python:0.1.5",
-        "folders": "ghcr.io/nolcut/ga-rpc-python:0.1.5"
+        "r_log": "ghcr.io/nolcut/ga-rpc-python: 0.1.6",
+        "add_operation": "ghcr.io/nolcut/ga-rpc-python:0.1.6",
+        "log": "ghcr.io/nolcut/ga-rpc-python:0.1.6",
+        "folders": "ghcr.io/nolcut/ga-rpc-python:0.1.6"
     },
     "PyPIPackageDownloads": {
         "add_rpc": [
