@@ -71,7 +71,7 @@
         "log": "ghcr.io/nolcut/ga-rpc-python:0.1.5",
         "folders": "ghcr.io/nolcut/ga-rpc-python:0.1.5"
     },
-    "PyPIPackagesDownloads": {
+    "PyPIPackageDownloads": {
         "add_rpc": [
             "random2"
         ]
