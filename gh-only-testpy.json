@@ -66,7 +66,7 @@
         }
     },
     "ActionContainers": {
-        "r_log": "ghcr.io/nolcut/ga-rpc-python: 0.1.6",
+        "r_log": "ghcr.io/nolcut/ga-rpc-python:0.1.6",
         "add_operation": "ghcr.io/nolcut/ga-rpc-python:0.1.6",
         "log": "ghcr.io/nolcut/ga-rpc-python:0.1.6",
         "folders": "ghcr.io/nolcut/ga-rpc-python:0.1.6"
