@@ -33,17 +33,6 @@
                 "r_func"
             ]
         },
-        "r_func": {
-            "FunctionName": "r_log",
-            "FaaSServer": "My_GitHub_Account",
-            "Type": "R",
-            "Arguments": {
-                "message": "testing testing testing"
-            },
-            "InvokeNext": [
-                "delete"
-            ]
-        },
         "delete": {
             "FunctionName": "print_and_delete",
             "FaaSServer": "My_GitHub_Account",
