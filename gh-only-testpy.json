@@ -42,7 +42,7 @@
                 "filename": "add_result_500.txt"
             },
             "InvokeNext": [
-                {true: "folders"}
+                {"True": "folders"}
             ]
         },
         "folders": {
