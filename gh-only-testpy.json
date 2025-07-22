@@ -55,7 +55,7 @@
                 "folder": "testadd",
                 "filename": "add_result_500.txt"
             },
-            "InvokeNext": "log"
+            "InvokeNext": "r_func"
         },
         "folders": {
             "FunctionName": "test_list_folders",
