@@ -30,21 +30,7 @@
                 "output": "add_result_500.txt"
             },
             "InvokeNext": [
-                "r_func"
-            ]
-        },
-        "r_func": {
-            "FunctionName": "r_log",
-            "FaaSServer": "My_GitHub_Account",
-            "Type": "R",
-            "Arguments": {
-                "message": "testing testing testing"
-            },
-            "InvokeNext": [
-                {
-                    "True": "folders",
-                    "False": "delete"
-                }
+                "delete"
             ]
         },
         "delete": {
@@ -55,7 +41,9 @@
                 "folder": "testadd",
                 "filename": "add_result_500.txt"
             },
-            "InvokeNext": ""
+            "InvokeNext": [
+                {true: "folders"}
+            ]
         },
         "folders": {
             "FunctionName": "test_list_folders",
