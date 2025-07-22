@@ -42,7 +42,8 @@
             },
             "InvokeNext": [
                 {
-                    "True": "folders"
+                    "True": "folders",
+                    "False": "delete"
                 }
             ]
         },
