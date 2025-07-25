@@ -30,7 +30,7 @@
                 "output": "add_result_500.txt"
             },
             "InvokeNext": [
-                "r_func"
+                "r_func(5)"
             ]
         },
         "r_func": {
