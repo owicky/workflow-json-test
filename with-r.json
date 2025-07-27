@@ -86,7 +86,7 @@
         "print_and_delete": "nolcut/test-py",
         "test_list_folders": "nolcut/test-py"
     },
-    "FunctionInvoke": "add_operation",
+    "FunctionInvoke": "delete",
     "InvocationID": "",
     "FaaSrLog": "FaaSrLog",
     "LoggingDataStore": "My_Minio_Bucket",
