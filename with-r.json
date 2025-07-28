@@ -76,7 +76,7 @@
     },
     "FunctionCRANPackage": {
         "r_log": [
-            "palmerpenguins"
+            "gapminder"
         ]
     },
     "PyPIPackageDownloads": {
