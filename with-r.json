@@ -74,6 +74,11 @@
         "log": "ghcr.io/nolcut/ga-rpc-python:0.1.7",
         "folders": "ghcr.io/nolcut/ga-rpc-python:0.1.7"
     },
+    "FunctionCRANPackage": {
+        "r_func": [
+            "palmerpenguins"
+        ]
+    }
     "PyPIPackageDownloads": {
         "add_rpc": [
             "random2"
