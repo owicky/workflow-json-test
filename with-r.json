@@ -49,6 +49,7 @@
         "delete": {
             "FunctionName": "print_and_delete",
             "FaaSServer": "My_GitHub_Account",
+            "UseSecretStore": false,
             "Type": "Python",
             "Arguments": {
                 "folder": "testadd",
@@ -61,16 +62,17 @@
         "folders": {
             "FunctionName": "test_list_folders",
             "FaaSServer": "My_GitHub_Account",
+            "UseSecretStore": true,
             "Type": "Python",
             "Arguments": {},
             "InvokeNext": []
         }
     },
     "ActionContainers": {
-        "r_func": "ghcr.io/nolcut/ga-rpc-python-r:0.1.6",
-        "add_operation": "ghcr.io/nolcut/ga-rpc-python:0.1.6",
-        "log": "ghcr.io/nolcut/ga-rpc-python:0.1.6",
-        "folders": "ghcr.io/nolcut/ga-rpc-python:0.1.6"
+        "r_func": "ghcr.io/nolcut/ga-rpc-python-r:0.1.7",
+        "add_operation": "ghcr.io/nolcut/ga-rpc-python:0.1.7",
+        "log": "ghcr.io/nolcut/ga-rpc-python:0.1.7",
+        "folders": "ghcr.io/nolcut/ga-rpc-python:0.1.7"
     },
     "PyPIPackageDownloads": {
         "add_rpc": [
