@@ -75,7 +75,7 @@
         "folders": "ghcr.io/nolcut/ga-rpc-python:0.1.7"
     },
     "FunctionCRANPackage": {
-        "r_func": [
+        "r_log": [
             "palmerpenguins"
         ]
     },
