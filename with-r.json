@@ -44,7 +44,6 @@
             },
             "InvokeNext": [
                 "delete",
-                "folders(10)"
             ]
         },
         "delete": {
