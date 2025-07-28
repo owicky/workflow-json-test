@@ -43,7 +43,7 @@
                 "message": "testing testing testing"
             },
             "InvokeNext": [
-                "delete",
+                "delete"
             ]
         },
         "delete": {
