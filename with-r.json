@@ -21,7 +21,7 @@
         "add_operation": {
             "FunctionName": "add_rpc",
             "FaaSServer": "My_GitHub_Account",
-            "UseSecretStore": true,
+            "UseSecretStore": false,
             "Type": "Python",
             "Arguments": {
                 "folder": "testadd",
@@ -36,7 +36,7 @@
         "r_func": {
             "FunctionName": "r_log",
             "FaaSServer": "My_GitHub_Account",
-            "UseSecretStore": true,
+            "UseSecretStore": false,
             "Type": "R",
             "Arguments": {
                 "message": "testing testing testing"
@@ -61,7 +61,7 @@
         "folders": {
             "FunctionName": "test_list_folders",
             "FaaSServer": "My_GitHub_Account",
-            "UseSecretStore": true,
+            "UseSecretStore": false,
             "Type": "Python",
             "Arguments": {},
             "InvokeNext": []
