@@ -17,7 +17,7 @@
             "SecretKey": "My_S3_Bucket_SECRET_KEY"
         }
     },
-    "FunctionList": {
+    "ActionList": {
         "add_operation": {
             "FunctionName": "add_rpc",
             "FaaSServer": "My_GitHub_Account",
