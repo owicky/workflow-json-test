@@ -11,7 +11,7 @@
     "DataStores": {
         "My_S3_Bucket": {
             "Endpoint": "https://play.min.io",
-            "Bucket": "faasr-test",
+            "Bucket": "faasr-test-0001",
             "Region": "us-east-1",
             "Writable": "TRUE",
             "AccessKey": "My_S3_Bucket_ACCESS_KEY",
