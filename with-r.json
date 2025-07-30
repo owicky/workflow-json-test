@@ -21,7 +21,7 @@
         "add_operation": {
             "FunctionName": "add_rpc",
             "FaaSServer": "My_GitHub_Account",
-            "UseSecretStore": false,
+            "UseSecretStore": true,
             "Type": "Python",
             "Arguments": {
                 "folder": "testadd",
