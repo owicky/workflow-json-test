@@ -9,13 +9,13 @@
         }
     },
     "DataStores": {
-        "My_Minio_Bucket": {
+        "My_S3_Bucket": {
             "Endpoint": "https://play.min.io",
             "Bucket": "faasr-test",
             "Region": "us-east-1",
             "Writable": "TRUE",
-            "AccessKey": "Q3AM3UQ867SPQQA43P2F",
-            "SecretKey": "zuf+tfteSlswRu7BJ86wekitnifILbZam1KYY3TG"
+            "AccessKey": "My_S3_Bucket_ACCESS_KEY",
+            "SecretKey": "My_S3_Bucket_SECRET_KEY"
         }
     },
     "FunctionList": {
@@ -98,6 +98,6 @@
     "FunctionInvoke": "add_operation",
     "InvocationID": "",
     "FaaSrLog": "FaaSrLog",
-    "LoggingDataStore": "My_Minio_Bucket",
-    "DefaultDataStore": "My_Minio_Bucket"
+    "LoggingDataStore": "My_S3_Bucket",
+    "DefaultDataStore": "My_S3_Bucket"
 }
