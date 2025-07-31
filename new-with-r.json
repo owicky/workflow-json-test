@@ -91,7 +91,7 @@
         "print_and_delete": "nolcut/test-py",
         "test_list_folders": "nolcut/test-py"
     },
-    "FunctionInvoke": "delete",
+    "FunctionInvoke": "add_operation",
     "InvocationID": "",
     "FaaSrLog": "FaaSrLog",
     "LoggingDataStore": "My_S3_Bucket",
