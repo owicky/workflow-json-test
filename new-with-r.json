@@ -53,7 +53,7 @@
                 "filename": "add_result_500.txt"
             },
             "InvokeNext": [
-                {"True": ["folders"]}
+                {"True": ["folders(10)"]}
             ]
         },
         "folders": {
@@ -91,7 +91,7 @@
         "print_and_delete": "nolcut/test-py",
         "test_list_folders": "nolcut/test-py"
     },
-    "FunctionInvoke": "r_func",
+    "FunctionInvoke": "folders",
     "InvocationID": "",
     "FaaSrLog": "FaaSrLog",
     "LoggingDataStore": "My_S3_Bucket",
