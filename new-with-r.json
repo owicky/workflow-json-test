@@ -93,6 +93,7 @@
     },
     "FunctionInvoke": "add_operation",
     "InvocationID": "",
+    "InvocationIDFromDate": "YYYYMMDD",
     "FaaSrLog": "FaaSrLog",
     "LoggingDataStore": "My_S3_Bucket",
     "DefaultDataStore": "My_S3_Bucket",
