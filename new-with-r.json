@@ -65,10 +65,10 @@
         }
     },
     "ActionContainers": {
-        "r_func": "ghcr.io/nolcut/ga-rpc-python-r:0.1.7",
-        "add_operation": "ghcr.io/nolcut/ga-rpc-python:0.1.7",
-        "log": "ghcr.io/nolcut/ga-rpc-python:0.1.7",
-        "folders": "ghcr.io/nolcut/ga-rpc-python:0.1.7"
+        "r_func": "ghcr.io/owicky/ga-rpc-python-r:0.1.7",
+        "add_operation": "ghcr.io/owicky/ga-rpc-python:0.1.7",
+        "log": "ghcr.io/owicky/ga-rpc-python:0.1.7",
+        "folders": "ghcr.io/owicky/ga-rpc-python:0.1.7"
     },
     "FunctionCRANPackage": {
         "r_log": [
@@ -86,10 +86,10 @@
         ]
     },
     "FunctionGitRepo": {
-        "add_rpc": "nolcut/test-py",
-        "r_log": "nolcut/test-py",
-        "print_and_delete": "nolcut/test-py",
-        "test_list_folders": "nolcut/test-py"
+        "add_rpc": "owicky/test-py",
+        "r_log": "owicky/test-py",
+        "print_and_delete": "owicky/test-py",
+        "test_list_folders": "owicky/test-py"
     },
     "FunctionInvoke": "add_operation",
     "InvocationID": "",
