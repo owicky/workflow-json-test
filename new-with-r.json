@@ -2,7 +2,7 @@
     "ComputeServers": {
         "My_GitHub_Account": {
             "FaaSType": "GitHubActions",
-            "UserName": "nolcut",
+            "UserName": "owicky",
             "UseSecretStore": false,
             "ActionRepoName": "FaaSr-py-test-rpc",
             "Branch": "main",
