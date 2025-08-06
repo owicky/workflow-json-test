@@ -86,10 +86,10 @@
         ]
     },
     "FunctionGitRepo": {
-        "add_rpc": "owicky/test-py",
-        "r_log": "owicky/test-py",
-        "print_and_delete": "owicky/test-py",
-        "test_list_folders": "owicky/test-py"
+        "add_rpc": "nolcut/test-py",
+        "r_log": "nolcut/test-py",
+        "print_and_delete": "nolcut/test-py",
+        "test_list_folders": "nolcut/test-py"
     },
     "FunctionInvoke": "add_operation",
     "InvocationID": "",
